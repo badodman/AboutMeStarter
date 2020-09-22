@@ -1,7 +1,7 @@
 /*
  * Programmer:BrennenDodman
  * Date:9/22/2020
- * Purpose:
+ * Purpose:to Demonstrate that I know how to use variables
  */
 
 public class AboutMe {
