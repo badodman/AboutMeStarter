@@ -7,7 +7,7 @@
 public class AboutMe {
     public static void main (String [] args) {
         // Declaring the variables
-    	String myName = "Brennen";
+    	String myName = "Brennen.";
     	int myAge = 16;
     	double myHeightInMetres = 1.92024;
         // Print the values
